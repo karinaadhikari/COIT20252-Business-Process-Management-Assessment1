@@ -18,3 +18,13 @@ I selected this artefact to gain insight into the development of process analysi
 Process mining techniques are used to analyze material flow processes in production and logistics environments, and the material flow process is reconstructed from the event-log data, instead of relying on assumed or documented material flow processes (Grobis & Ihlenfeldt, 2025, p. 468). Their research shows that the more individualised the production, the more diverse the process steps and interdependencies that need to be effectively integrated and understood, and the more extensive and accurate the underlying data that needs to be managed in order to deal with this complexity (Grobis & Ihlenfeldt, 2025, p. 468).
 
 I chose this artefact because it is an example of a real-world, industry-based application of data-driven process analysis in a very operationally oriented context. It helped me to understand that process mining is an objective and data-driven approach to documentation, especially in complex settings where manual documentation through interviews with stakeholders and manual process mapping would not be able to capture the real process variability accurately.
+
+## References
+
+Azarijafari, M., Mich, L., Missikoff, M. & Missikoff, O. (2025) 'A cooperative approach for knowledge-based business process design in a public authority', *arXiv preprint*, arXiv:2507.19842. Available at: https://arxiv.org/pdf/2507.19842 (Accessed: 5 August 2026).
+
+Fettke, P. & Di Francescomarino, C. (2025) 'Business process management and artificial intelligence: Literature survey and future research', *KI – Künstliche Intelligenz*, 39(2). Available at: https://doi.org/10.1007/s13218-025-00891-y (Accessed: 5 August 2026).
+
+Grobis, M. & Ihlenfeldt, S. (2025) 'Process mining for supporting data processing and process design in production and logistics', *Procedia CIRP*, 136. Available at: https://doi.org/10.1016/j.procir.2025.08.081 (Accessed: 5 August 2026).
+
+Milani, F. & Lashkevich, K. (2025) 'Business process improvement opportunities and redesign options: a systematic literature review', *Business Process Management Journal*, (ahead-of-print). Available at: https://doi.org/10.1108/BPMJ-02-2025-0232 (Accessed: 5 August 2026).
