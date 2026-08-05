@@ -9,6 +9,8 @@ In order to fill this gap in the existing BPM research, Milani and Lashkevich (2
 
 I chose this artefact because it connects process analysis directly to the redesign that follows it, and it illustrates that weaknesses identified can be matched to solutions that have been found, instead of being solved on an ad hoc, case-by-case basis. It helped me to see process analysis as a step that directly contributes to structured, evidence-based decision making in BPM.
 
+## Process Mining for Supporting Data Processing and Process Design in Production and Logistics
+
 
 ## Business Process Management and Artificial Intelligence: Literature Survey and Future Research
 Fettke and Di Francescomarino (2025, p. 67) review the relationship between BPM and AI from three angles: BPM activities (modelling, analysis, redesign, and monitoring); AI techniques (machine learning, natural language processing, and automated reasoning); and application domains (healthcare and manufacturing). The authors emphasize that AI is not just a downstream technology, but a technology that is increasingly becoming part of the process analysis itself, assisting in the automated discovery and predictive monitoring of processes (Fettke & Di Francescomarino, 2025, p. 70).
