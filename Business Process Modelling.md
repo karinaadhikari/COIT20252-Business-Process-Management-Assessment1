@@ -13,3 +13,13 @@ This artefact helped me to realize that a big challenge in modelling is to conve
 ## Evaluation of LLMs for Process Model Analysis and Optimization
 Kumar, Zhao and Dobariya (2025, p. 1) assess the ability of various LLMs, such as ChatGPT model o3, Claude Opus 4, Grok 3 and Gemini 2.5 Flash, to understand a BPMN model, identify syntactic and logical errors, and engage in conversational reasoning about redesign scenarios. In finance and healthcare processes, o3 achieved the highest score, correctly identifying all the errors and accurately calculating the process completion times (Kumar, Zhao and Dobariya, 2025, p. 10).
 I learned that the depth of understanding of process models was very different across the various AI tools, as their performance was widely different on the same tasks. This is illustrated by the scoring comparison, which measures differences in error detection and reasoning, not just generally. This is significant evidence of my understanding of business process modelling because it demonstrates that it is important to be able to critically evaluate a model, rather than simply create one.
+
+## References
+
+Della Penna, G. and Melatti, I. (2025) 'Automating execution and verification of BPMN+DMN business processes', *arXiv preprint*, arXiv:2512.15214. Available at: https://arxiv.org/pdf/2512.15214 (Accessed: 5 August 2026).
+
+Kumar, A., Zhao, J.L. and Dobariya, O. (2025) 'Evaluation of LLMs for process model analysis and optimization', *arXiv preprint*, arXiv:2510.07489. Available at: https://arxiv.org/pdf/2510.07489 (Accessed: 5 August 2026).
+
+Licardo, J.T., Tankovic, N. and Etinger, D. (2025) 'BPMN assistant: an LLM-based approach to business process modeling', *arXiv preprint*, arXiv:2509.24592. Available at: https://arxiv.org/pdf/2509.24592 (Accessed: 5 August 2026).
+
+Nivon, Q. and Salaün, G. (2025) 'Automated generation of BPMN processes from textual requirements', in Gaaloul, W. et al. (eds) *Service-Oriented Computing*. Singapore: Springer Nature. Available at: https://doi.org/10.1007/978-981-96-0805-8_14 (Accessed: 5 August 2026).
