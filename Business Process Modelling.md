@@ -2,6 +2,7 @@
 
 ## BPMN Assistant: An LLM-Based Approach to Business Process Modeling
 Licardo, Tankovic and Etinger (2025) introduce BPMN Assistant, a tool that leverages Large Language Models to generate and manipulate BPMN diagrams from natural language, with an intermediate structured JSON representation of the diagram instead of the verbose XML. The JSON-based approach resulted in higher or equal editing success rates compared to direct XML manipulation, and reduced generation latency by approximately 43% (Licardo, Tankovic and Etinger, 2025, p. 17) across the nine LLMs. Gains were largest for open-weight models.
+This artefact was a lesson in me that the reliability of a model is not only dependent on the tool used to create it, but also on how the structure of the model is represented. This is directly reflected in the reported success rates and latency, with measurable improvements as a result of a structural design choice. This is not only an example of my understanding of business process modelling, but it is also evidence of my understanding that quality is represented, not just the ability to draw diagrams.
 
 
 ## Automating Execution and Verification of BPMN+DMN Business Processes
