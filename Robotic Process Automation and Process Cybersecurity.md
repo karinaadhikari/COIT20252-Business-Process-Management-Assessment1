@@ -18,9 +18,9 @@ This artefact was selected because it considers data protection as a formal veri
 
 ## The Centrality of Cybersecurity: Business Models, Competitive Strategies and Sustainability Practices
 
-Gazzola et al. (2026, p. 1) analyse how ten leading global cybersecurity companies integrate artificial intelligence, blockchain, and cloud-based Business Process Management tools into their internal business processes. Using a comparative, document-based case study design, they find that organisations demonstrating consistent, proactive security commitment gain market recognition, positioning cybersecurity as a source of competitive differentiation rather than a purely defensive cost (Gazzola et al., 2026, p. 2).
+Gazzola et al. (2026, p. 1) examine the use of AI, blockchain, and cloud-based Business Process Management (BPM) tools by 10 of the world's most prominent cybersecurity firms within their internal business processes. They use a comparative case study approach based on documents to identify that organisations with a consistent and proactive approach to security are recognised in the market and make cybersecurity a source of competitive advantage, not just a defensive expense (Gazzola et al., 2026, p. 2).
 
-I selected this artefact because it reframes process cybersecurity as a strategic capability embedded across business operations, not an isolated technical function. This is meaningful evidence of my understanding of process cybersecurity because it shows that securing business processes has organisational and competitive implications extending well beyond preventing individual attacks.
+I chose this artefact because it takes a different approach to process cybersecurity and views it as a strategic capability that is integrated throughout business processes, rather than a technical function. This is significant evidence of my understanding of process cybersecurity because it demonstrates the organisational and competitive implications of securing business processes are far beyond the ability to stop individual attacks.
 
 ## References
 
