@@ -1,4 +1,4 @@
-# COIT20252-e-portfolio-3-RPAandProcessCybersecurity
+# COIT20252-e-portfolio-3-RPA and Process Cybersecurity
 
 ## The Progressive Transformation of Work with Robotic Process Automation Technology
 
@@ -7,7 +7,7 @@ Bunduchi et al. (2025, p. 430) explore the transformation of work in the context
 I chose this artefact because it goes beyond the description of what RPA does and demonstrates how the introduction of RPA is a lived organisational process. This is something that is really meaningful evidence of my understanding of RPA because it shows that the automation of a process isn't a one-time thing, it's a relationship between technology and the people who are doing the work that is being automated or reshaped.
 ## An Application on Supporting Information Security Management with RPA
 
-Kiriş and Altay (2025, p. 445) use RPA in an information security management system of a company in the textile sector to automate the process of encrypting emails, as required by ISO/IEC 27001. The time it took to encrypt 30 daily reports was cut from 36 hours to 90 minutes, and a security vulnerability that was previously handled by humans was completely eliminated by RPA (Kiriş and Altay, 2025, p. 445).
+Kiris and Altay (2025, p. 445) use RPA in an information security management system of a company in the textile sector to automate the process of encrypting emails, as required by ISO/IEC 27001. The time it took to encrypt 30 daily reports was cut from 36 hours to 90 minutes, and a security vulnerability that was previously handled by humans was completely eliminated by RPA (Kiriş and Altay, 2025, p. 445).
 
 This artefact helped me understand that RPA can directly enhance the security of the process, alongside its efficiency, by eliminating manual tasks that are susceptible to human error. This is made real by the measured decrease in processing time and the removal of a particular vulnerability. This is significant evidence of my understanding of RPA and process cybersecurity working together because it demonstrates that automation can be a security control in a business process.
 ## Model-Based Verification of Data Protection Mechanisms in Collaborative Business Processes
