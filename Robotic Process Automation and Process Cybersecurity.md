@@ -24,10 +24,10 @@ I chose this artefact because it takes a different approach to process cybersecu
 
 ## References
 
-Belluccini, S., De Nicola, R., Dumas, M., Pullonen-Raudvere, P., Re, B. and Tiezzi, F. (2025) 'Model-based verification of data protection mechanisms in collaborative business processes', *Software and Systems Modeling*, 24(2). Available at: https://doi.org/10.1007/s10270-024-01217-6 (Accessed: 5 August 2026).
+Belluccini, S., De Nicola, R., Dumas, M., Pullonen-Raudvere, P., Re, B. and Tiezzi, F. (2025) 'Model-based verification of data protection mechanisms in collaborative business processes', *Software and Systems Modeling*, 24(2). Available at: https://doi.org/10.1007/s10270-024-01217-6 (Accessed: 21 September 2026).
 
-Bunduchi, R., Chiş, D.M., Mihăilă, A.A. and Crişan, E.L. (2025) 'The progressive transformation of work with robotic process automation technology', *European Journal of Information Systems*, 35(3). Available at: https://doi.org/10.1080/0960085X.2025.2576231 (Accessed: 5 August 2026).
+Bunduchi, R., Chiş, D.M., Mihăilă, A.A. and Crişan, E.L. (2025) 'The progressive transformation of work with robotic process automation technology', *European Journal of Information Systems*, 35(3). Available at: https://doi.org/10.1080/0960085X.2025.2576231 (Accessed: 21 September 2026).
 
-Gazzola, P., Amelio, S., Pavione, E. and Marubini, F. (2026) 'The centrality of cybersecurity: business models, competitive strategies and sustainability practices', *Business Process Management Journal*, (ahead-of-print). Available at: https://doi.org/10.1108/BPMJ-07-2025-1110 (Accessed: 5 August 2026).
+Gazzola, P., Amelio, S., Pavione, E. and Marubini, F. (2026) 'The centrality of cybersecurity: business models, competitive strategies and sustainability practices', *Business Process Management Journal*, (ahead-of-print). Available at: https://doi.org/10.1108/BPMJ-07-2025-1110 (Accessed: 23 September 2026).
 
-Kiriş, S.B. and Altay, Y. (2025) 'An application on supporting information security management with RPA', in Durakbasa, N.M. and Gülen, K.G. (eds) *Sustainable Green Conversion*. Cham: Springer. Available at: https://doi.org/10.1007/978-3-031-83583-4_31 (Accessed: 5 August 2026).
+Kiriş, S.B. and Altay, Y. (2025) 'An application on supporting information security management with RPA', in Durakbasa, N.M. and Gülen, K.G. (eds) *Sustainable Green Conversion*. Cham: Springer. Available at: https://doi.org/10.1007/978-3-031-83583-4_31 (Accessed: 23 September 2026).
